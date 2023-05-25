@@ -12,15 +12,5 @@
   "shortDescription": "A Test of Stat Sheets",
   "allowsUriAccess": true,
   "readMeFile": "readme.md",
-  "licenseFile": "license.txt",
-  "statSheets": [
-      { 
-          "name": "Basic",
-          "description": "Basic Stat Sheet",
-          "type": "Basic", 
-          "entry": "sheets/stats/basic/index.html", 
-          "width": "300px",
-          "height": "300px"
-      }
-  ]
+  "licenseFile": "license.txt"
 }

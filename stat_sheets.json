@@ -4,7 +4,7 @@
         "name": "Basic",
         "description": "Basic Stat Sheet",
         "propertyTypes": [ "Basic" ],
-        "entry": "sheets/stats/basic/index.html" 
+        "entry": "sheets/stats/basic/index.hbs" 
     }
   ]
 }
