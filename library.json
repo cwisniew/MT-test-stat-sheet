@@ -1,0 +1,26 @@
+{
+  "name": "Stat Sheet Test",
+  "version": "1.0.0",
+  "website": "www.rptools.net",
+  "gitUrl": "github.com/user/repository",
+  "authors": [
+      "RPTools Team"
+  ],
+  "license": "AGPL",
+  "namespace": "net.rptools.statSheetTest",
+  "description": "A Test of Stat Sheets",
+  "shortDescription": "A Test of Stat Sheets",
+  "allowsUriAccess": true,
+  "readMeFile": "readme.md",
+  "licenseFile": "license.txt",
+  "statSheets": [
+      { 
+          "name": "Basic",
+          "description": "Basic Stat Sheet",
+          "type": "Basic", 
+          "entry": "sheets/stats/basic/index.html", 
+          "width": "300px",
+          "height": "300px"
+      }
+  ]
+}
