@@ -2,7 +2,7 @@
   "name": "Stat Sheet Test",
   "version": "1.0.0",
   "website": "www.rptools.net",
-  "gitUrl": "github.com/user/repository",
+  "gitUrl": "github.com/cwisniew/mt-test-stat-sheet",
   "authors": [
       "RPTools Team"
   ],
@@ -11,6 +11,6 @@
   "description": "A Test of Stat Sheets",
   "shortDescription": "A Test of Stat Sheets",
   "allowsUriAccess": true,
-  "readMeFile": "README.md",
-  "licenseFile": "license.txt"
+  "readMeFile": "metadata/README.md",
+  "licenseFile": "metadata/license.txt"
 }
